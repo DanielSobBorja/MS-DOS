@@ -1,6 +1,8 @@
 # EJERCICIO 2: MS-DOS
 ## Daniel Sobrino
 
+Para esta práctica he instalado la PowerShell en linux mediante ```sudo snap install powershell --classic```.
+
 ### Actividad 1.1
 Tras crear las carpetas, ejecuto el comando ```tree``` para mostrar el árbol de directorios.
 ```
@@ -31,4 +33,8 @@ Ejecuto ```ls PROG``` para mostrar el contenido de PROG.
 
 ### Actividad 1.5
 Podemos ver que se ha borrado la carpeta mediante ```rm -r PROG/PASCAL```:
-![imagen](https://user-images.githubusercontent.com/91564560/159030110-b431c490-7090-41d9-b200-e62a02552eac.png)
+![imagen](https://user-images.githubusercontent.com/91564560/159033689-c9b1f424-978b-480c-b129-ae10d0cb6f19.png)
+
+### Actividad 1.6
+Hago ```cd ../VARIOS```para ir a la carpeta VARIOS y ejecuto ```mkdir ../APLI/WORD/AGENDA```para crear la carpeta AGENDA en WORD.
+
