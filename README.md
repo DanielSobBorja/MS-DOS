@@ -63,11 +63,11 @@ Me vuelvo a la raíz y creo la carpeta NUEVO.
 
 ![imagen](https://user-images.githubusercontent.com/91564560/159038165-d4ccb1f4-7ee5-40c3-92a2-c24a5e0c37ca.png)
 
-# Actividad 1.12
+### Actividad 1.12
 Desde PRACT muestro el contenido de WORD.
 
 ## EJERCICIO 2
-# Actividad 2.1
+### Actividad 2.1
 Creo el fichero EJER.TXT con el contenido indicado en TEXTOS. (Confía en que he metido el texto)
 
 ![imagen](https://user-images.githubusercontent.com/91564560/159039798-baabbb65-d503-40e4-aa19-b5b3c16061bf.png)
