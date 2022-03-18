@@ -70,4 +70,5 @@ Desde PRACT muestro el contenido de WORD.
 # Actividad 2.1
 Creo el fichero EJER.TXT con el contenido indicado en TEXTOS. (Confía en que he metido el texto)
 
-![imagen](https://user-images.githubusercontent.com/91564560/159038696-1feeb221-e007-4eb6-b1bb-961b72805413.png)
+![imagen](https://user-images.githubusercontent.com/91564560/159039798-baabbb65-d503-40e4-aa19-b5b3c16061bf.png)
+
