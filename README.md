@@ -1,8 +1,9 @@
-# EJERCICIO 2: MS-DOS
+# SISTEMAS EJERCICIO 2: MS-DOS
 ## Daniel Sobrino
 
 Para esta práctica he instalado la PowerShell en linux mediante ```sudo snap install powershell --classic```.
 
+## EJERCICIO 1
 ### Actividad 1.1
 Tras crear las carpetas, ejecuto el comando ```tree``` para mostrar el árbol de directorios.
 ```
@@ -64,5 +65,9 @@ Me vuelvo a la raíz y creo la carpeta NUEVO.
 
 # Actividad 1.12
 Desde PRACT muestro el contenido de WORD.
+
+## EJERCICIO 2
+# Actividad 2.1
+Creo el fichero EJER.TXT con el contenido indicado en TEXTOS. (Confía en que he metido el texto)
 
 ![imagen](https://user-images.githubusercontent.com/91564560/159038696-1feeb221-e007-4eb6-b1bb-961b72805413.png)
