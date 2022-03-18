@@ -33,10 +33,12 @@ Ejecuto ```ls PROG``` para mostrar el contenido de PROG.
 
 ### Actividad 1.5
 Podemos ver que se ha borrado la carpeta mediante ```rm -r PROG/PASCAL```:
+
 ![imagen](https://user-images.githubusercontent.com/91564560/159033689-c9b1f424-978b-480c-b129-ae10d0cb6f19.png)
 
 ### Actividad 1.6
 Hago ```cd ../VARIOS``` para ir a la carpeta VARIOS y ejecuto ```mkdir ../APLI/WORD/PRACT```para crear la carpeta PRACT en WORD.
+
 ![imagen](https://user-images.githubusercontent.com/91564560/159035886-9c87b9eb-e44d-4b84-98eb-b73601e0c195.png)
 
 ### Actividad 1.7
@@ -44,12 +46,23 @@ Hago ```../APLI/WORD/PRACT/``` desde VARIOS para situarme en la nueva carpeta. E
 
 ### Actividad 1.8
 Me muevo a TABLAS con ```cd ../../EXCEL/TABLAS/```. Ejecuto ```ls ../../../```.
+
 ![imagen](https://user-images.githubusercontent.com/91564560/159036839-09e67fef-5e00-4791-ab1e-cf31b59e9ebc.png)
 
 ### Actividad 1.9
 Me sitúo en APLI y creo la carpeta AGENDA en VARIOS.
+
 ![imagen](https://user-images.githubusercontent.com/91564560/159037469-4370fd1c-ef5d-4d59-8b84-60e851baf300.png)
 
 ### Actividad 1.10
 Elimino la carpeta EXCEL con ```rm -r EXCEL/```.
 
+### Actividad 1.11
+Me vuelvo a la raíz y creo la carpeta NUEVO.
+
+![imagen](https://user-images.githubusercontent.com/91564560/159038165-d4ccb1f4-7ee5-40c3-92a2-c24a5e0c37ca.png)
+
+# Actividad 1.12
+Desde PRACT muestro el contenido de WORD.
+
+![imagen](https://user-images.githubusercontent.com/91564560/159038696-1feeb221-e007-4eb6-b1bb-961b72805413.png)
