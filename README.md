@@ -159,4 +159,33 @@ Renombro el archivo KEPLER.TXT por GALILEO.TXT
 ![imagen](https://user-images.githubusercontent.com/91564560/159555917-fbbdc23b-e0a7-492c-a3e8-4ffae4b234ad.png)
 
 ## EJERCICIO 4
-### Actividad 4.1
+### Actividad 4.1 - 4.2
+Creo la carpeta TECINFO en A (unidad artificial ya que estoy en linux). Dentro meto el fichero HARD.TXT con el texto indicado.
+
+![imagen](https://user-images.githubusercontent.com/91564560/159556934-7490c02c-2b12-4d0e-8d26-c6db0feef62a.png)
+
+### Actividad 4.3
+Creo otro fichero SOFT.TXT igual que en el apartado anterior.
+
+### Actividad 4.4
+Utilizo el comando ```mv TECINFO/* APLI```para mover el contenido de TECINFO a APLI.
+
+### Actividad 4.5
+Con ```Get-Content APLI/HARD.TXT, APLI/SOFT.TXT | Set-Content ../MS-DOS/VARIOS/AGENDA/ORDER.TXT``` combino el contenido de ambos ficheros en ORDER.TXT, situado en agenda.
+
+### Actividad 4.6
+Borro TECINFO.
+
+![imagen](https://user-images.githubusercontent.com/91564560/159559424-4dfaef9e-b6e5-4a53-974e-bf39cfc38b08.png)
+
+### Actividad 4.7
+Ejecuto ```cp APLI/* ../MS-DOS/VARIOS``` para copiar ambos archivos a varios.
+
+### Actividad 4.8
+Ejecuto ```rename-item ../MS-DOS/VARIOS/AGENDA/ORDER.TXT ORDER.TYP```, ya que solo hay un fichero allí.
+
+### Actividad 4.9
+Utilizo ```ls APLI/C*.DOC rename-item {$_.name -replace "C*", "S*"}```.
+
+### Actividad 4.10
+Copio los archivos de APLI con extensión DOC en la carpeta agenda mediante ```cp APLI/*.DOC ../MS-DOS/VARIOS/AGENDA/
