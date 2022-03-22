@@ -103,10 +103,17 @@ Muevo este fichero a BASIC
 
 ![imagen](https://user-images.githubusercontent.com/91564560/159548897-c1b29ec3-7a3e-43e5-8f17-e1cf3d747aac.png)
 
-### Actividad 2.8
+### Actividad 2.8 - 2.9
 Uso nano ```./PROG/BASIC/EJER.TXT``` para editar el fichero y borrar la primera frase.
 Después le cambio el nombre y lo muevo.
 
 ![imagen](https://user-images.githubusercontent.com/91564560/159549493-9671a60a-5233-49d6-9adb-ed2b87ea7fd2.png)
 
-### Actividad 2.9
+### Actividad 2.10
+Muestro el número de archivos en BASIC y NOTAS.
+
+![imagen](https://user-images.githubusercontent.com/91564560/159550363-b3b07027-fc0f-4d77-a45f-18c6df1dcc62.png)
+
+## EJERCICIO 3
+### Actividad 3.1
+
