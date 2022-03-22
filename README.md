@@ -188,4 +188,4 @@ Ejecuto ```rename-item ../MS-DOS/VARIOS/AGENDA/ORDER.TXT ORDER.TYP```, ya que so
 Utilizo ```ls APLI/C*.DOC rename-item {$_.name -replace "C*", "S*"}```.
 
 ### Actividad 4.10
-Copio los archivos de APLI con extensión DOC en la carpeta agenda mediante ```cp APLI/*.DOC ../MS-DOS/VARIOS/AGENDA/
+Copio los archivos de APLI con extensión DOC en la carpeta agenda mediante ```cp APLI/*.DOC ../MS-DOS/VARIOS/AGENDA/```
