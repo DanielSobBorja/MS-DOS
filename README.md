@@ -141,4 +141,22 @@ Copio ambos ficheros en CIENCIA.
 ![imagen](https://user-images.githubusercontent.com/91564560/159553489-0eaedf85-b5c4-428b-a346-58e6f46b2478.png)
 
 ### Actividad 3.7
+Intercambio el lugar de KEPLER y TYCHO.
 
+![imagen](https://user-images.githubusercontent.com/91564560/159554232-2f04c5c2-02c2-456f-b74f-0b40953c6055.png)
+
+### Actividad 3.8
+Combino el texto de ambos archivos y los meto en un fichero llamado TOTAL, en HISTORIA
+
+![imagen](https://user-images.githubusercontent.com/91564560/159554747-9e994350-f719-4974-8357-755b1b00a4f8.png)
+
+### Actividad 3.9
+Añado otro texto en KEPLER.TXT con ```ǹano ./KEPLER.TXT```.
+
+### Actividad 3.10
+Renombro el archivo KEPLER.TXT por GALILEO.TXT
+
+![imagen](https://user-images.githubusercontent.com/91564560/159555917-fbbdc23b-e0a7-492c-a3e8-4ffae4b234ad.png)
+
+## EJERCICIO 4
+### Actividad 4.1
