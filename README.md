@@ -120,4 +120,25 @@ Borro la carpeta accesss y en su lugar creo ASTRO. Desde allí creo la estructur
 
 ![imagen](https://user-images.githubusercontent.com/91564560/159551609-809ff6e1-2594-43aa-b3a3-0be70b82f218.png)
 
+### Actividad 3.3
+Me sitúo en CIENCIA con ```cd ./CIENCIA/``` y ejecuto ```ls ../HISTORIA/```.
+
+![imagen](https://user-images.githubusercontent.com/91564560/159552142-566c7c5f-dc39-4de9-b501-d0f5354c5487.png)
+
+### Actividad 3.4
+Creo un fichero en DATOS1 llamado TYCHO y le inserto el texto.
+
+![imagen](https://user-images.githubusercontent.com/91564560/159552662-900e1e8e-40dc-4d8a-bd5d-7f9d61aa1287.png)
+
+### Actividad 3.5
+Creo un fichero en DATOS2 llamado KEPLER y le inserto el texto.
+
+![imagen](https://user-images.githubusercontent.com/91564560/159553005-2a56adb3-d6ad-4ccd-997b-27e03526e557.png)
+
+### Actividad 3.6
+Copio ambos ficheros en CIENCIA.
+
+![imagen](https://user-images.githubusercontent.com/91564560/159553489-0eaedf85-b5c4-428b-a346-58e6f46b2478.png)
+
+### Actividad 3.7
 
