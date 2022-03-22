@@ -115,5 +115,9 @@ Muestro el número de archivos en BASIC y NOTAS.
 ![imagen](https://user-images.githubusercontent.com/91564560/159550363-b3b07027-fc0f-4d77-a45f-18c6df1dcc62.png)
 
 ## EJERCICIO 3
-### Actividad 3.1
+### Actividad 3.1 - 3.2
+Borro la carpeta accesss y en su lugar creo ASTRO. Desde allí creo la estructura de directorios.
+
+![imagen](https://user-images.githubusercontent.com/91564560/159551609-809ff6e1-2594-43aa-b3a3-0be70b82f218.png)
+
 
