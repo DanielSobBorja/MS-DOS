@@ -70,5 +70,43 @@ Desde PRACT muestro el contenido de WORD.
 ### Actividad 2.1
 Creo el fichero EJER.TXT con el contenido indicado en TEXTOS. (Confía en que he metido el texto)
 
-![imagen](https://user-images.githubusercontent.com/91564560/159039798-baabbb65-d503-40e4-aa19-b5b3c16061bf.png)
+![imagen](https://user-images.githubusercontent.com/91564560/159546376-0040c588-e7bf-4151-bf1a-370a840fb611.png)
 
+### Actividad 2.2
+Copio el archivo en la carpeta agendas con ```cp ./APLI/WORD/TEXTOS/EJER.TXT ./APLI/WORD/AGENDA/```.
+
+![imagen](https://user-images.githubusercontent.com/91564560/159546845-2b45c729-0d38-4847-8d97-e948f10deefe.png)
+
+### Actividad 2.3
+Borro el archivo que ha quedado repetido en textos.
+
+![imagen](https://user-images.githubusercontent.com/91564560/159547021-36cda103-b439-4da0-ab6b-5757740ce532.png)
+
+### Actividad 2.4
+Añado otra línea al EJER.TXT.
+
+![imagen](https://user-images.githubusercontent.com/91564560/159547532-330b7224-ff27-45e7-95bf-e8c4146799b4.png)
+
+### Actividad 2.5
+Copio el archivo en la carpeta BASIC.
+
+![imagen](https://user-images.githubusercontent.com/91564560/159547824-96929de3-499f-4e1a-8599-974197776148.png)
+
+### Actividad 2.6
+Cambio el nombre del archivo que se encuentra en AGENDA por FICHERO.TXT.
+
+![imagen](https://user-images.githubusercontent.com/91564560/159548645-5b987345-d836-496d-b755-c36ad0cc399c.png)
+
+
+### Actividad 2.7
+Muevo este fichero a BASIC
+
+![imagen](https://user-images.githubusercontent.com/91564560/159548897-c1b29ec3-7a3e-43e5-8f17-e1cf3d747aac.png)
+
+### Actividad 2.8
+Uso nano ```./PROG/BASIC/EJER.TXT``` para editar el fichero y borrar la primera frase.
+Después le cambio el nombre y lo muevo.
+
+![imagen](https://user-images.githubusercontent.com/91564560/159549493-9671a60a-5233-49d6-9adb-ed2b87ea7fd2.png)
+
+### Actividad 2.9
